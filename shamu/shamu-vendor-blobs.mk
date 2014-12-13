@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/soundfx/libqcomvoiceprocessing.so:system/lib/soundfx/libqcomvoiceprocessing.so \
     vendor/moto/shamu/proprietary/lib/soundfx/libspeakerbundle.so:system/lib/soundfx/libspeakerbundle.so \
     vendor/moto/shamu/proprietary/vendor/bin/gsiff_daemon:system/vendor/bin/gsiff_daemon \
-    vendor/moto/shamu/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/moto/shamu/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
     vendor/moto/shamu/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
     vendor/moto/shamu/proprietary/vendor/firmware/acdb.mbn:system/vendor/firmware/acdb.mbn \
@@ -340,12 +339,10 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/moto/shamu/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/moto/shamu/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/moto/shamu/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/moto/shamu/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/moto/shamu/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/moto/shamu/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/moto/shamu/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/moto/shamu/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/moto/shamu/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/moto/shamu/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/moto/shamu/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
